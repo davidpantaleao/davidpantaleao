@@ -1,8 +1,8 @@
 Olá, me chamo David Pantaleão 
 
 - 🔭 I’m currently working como Suporte Técnico
-- 🌱 I’m currently learning  HTML e CSS
-- 👯 I’m looking to collaborate on  desenvolvedor Front-End
+- 🌱 I’m currently learning  PYTHON. Tenho conhecimento em HTML e CSS.
+- 👯 I’m looking to collaborate como desenvolvedor Front-end.
 - 📫  meu Linkedin: https://www.linkedin.com/in/dpdoliveira/  
 
 Conhecimento em:
